@@ -1,0 +1,6 @@
+﻿{
+  "id": "d15c96acda6d48d8852a0b98dc844ccf",
+  "queues": {
+    "maxDequeueCount": 1000
+  }
+}
